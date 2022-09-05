@@ -32,3 +32,6 @@ Collaborative Expense Tracker
 - [Wireframe](https://www.figma.com/file/7j7m1ieb9UYsUYxl33JLTo/Collaborative-Expense-Tracker?node-id=231%3A929) is done using [Figma](https://www.figma.com/)
 - [Task management](https://trello.com/b/HQA4ajW0/expense-tracker) is done using [Trello](https://trello.com/)
 - [Entity Relationship Diagram](https://lucid.app/lucidchart/ba27ae21-fa18-4d98-a423-358fa9d66138/edit?viewport_loc=-445%2C19%2C2733%2C1275%2C0_0&invitationId=inv_85a04841-588a-45e0-9cca-688575205e68#)
+
+## Documentation
+More documentation about the development of the app in [Wiki](https://github.com/hertantoirawan/Collaborative-Expense-Tracker/wiki).
