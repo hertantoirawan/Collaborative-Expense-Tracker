@@ -1,5 +1,5 @@
 # Colete
-Collaborative Expense Tracker
+Colete is a multi-workspace expense tracker app focused on collaboration.
 
 <img src="https://user-images.githubusercontent.com/17814490/188211650-548fc6d6-d6bf-4715-8b4a-554a000bdb97.png" width="200"> <img src="https://user-images.githubusercontent.com/17814490/188208762-672703bd-b480-4b79-8e52-7ffddcb444e3.png" width="200"> <img src="https://user-images.githubusercontent.com/17814490/188211420-a517f6c3-6a47-45c2-82d6-13229e42556b.png" width="200"> <img src="https://user-images.githubusercontent.com/17814490/188209647-1bdff39f-1077-41b2-91a6-c98e98b66b13.png" width="200">
 
